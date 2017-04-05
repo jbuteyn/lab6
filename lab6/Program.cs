@@ -10,7 +10,7 @@ namespace lab6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Pig Latin Generator, please enter a word to be translated");
+            Console.WriteLine("Welcome to the Pig Latin Generator, please enter a word or sentence to be translated");
             bool run = true;
             while (run == true)
             {
